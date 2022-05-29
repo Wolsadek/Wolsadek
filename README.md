@@ -2,7 +2,7 @@
 ### My name is Lorenzo and my nickname is Wolsadek!
 
 
-<div>
+<div  align='center'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wolsadek&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
 <a href="https://github.com/Wolsadek">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolsadek&layout=compact&langs_count=7&theme=merko"/>
@@ -15,6 +15,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   
  ##
-
-  
+![Snake animation](https://github.com/Wolsadek/Wolsadek/blob/output/github-contribution-grid-snake.svg)
 
