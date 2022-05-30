@@ -4,9 +4,9 @@
 
 <div  align='center'>
    <a href="https://github.com/Wolsadek">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Wolsadek&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Wolsadek&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
 <a href="https://github.com/Wolsadek">
-  <img height="160em" widht='1' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolsadek&layout=compact&langs_count=7&theme=merko"/>
+  <img height="150em" widht='1' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolsadek&layout=compact&langs_count=7&theme=merko"/>
   </div>
   
  
