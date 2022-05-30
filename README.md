@@ -13,7 +13,7 @@
 
 ### Estou aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-<img align='right' alt='dog' height='150' style="border-radius:50px;"
+<img align='right' alt='dog' height='150' style="border-radius:10px;"
  src="https://i.pinimg.com/600x315/c8/b6/35/c8b6359550881c7040f3169d242e60c3.jpg">  
      
  ##
