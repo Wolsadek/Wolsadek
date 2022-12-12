@@ -8,8 +8,7 @@
 <a href="https://github.com/Wolsadek">
   <img height="140em" widht='1' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolsadek&layout=compact&langs_count=7&theme=merko"/>
   </div>
-  
- 
+
 
 ### Learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
