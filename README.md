@@ -1,22 +1,124 @@
-## Hi there! Welcome to my Github profile 👋
+# 👨🏻‍💻 Lorenzo Concato Jesien
 
+**`Desenvolvedor Front-End`**
 
+  Um desenvolvedor de software de Porto Alegre, Brasil 🇧🇷. Focado em construir soluções eficientes e escaláveis. Minha trajetória é movida pela curiosidade e pelo aprendizado contínuo. Meu objetivo é usar a tecnologia para criar ferramentas que realmente façam a diferença.
 
-<div  align='center'>
-   <a href="https://github.com/Wolsadek">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Wolsadek&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
-<a href="https://github.com/Wolsadek">
-  <img height="140em" widht='1' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolsadek&layout=compact&langs_count=7&theme=merko"/>
-  </div>
+<p align="left">
 
+<p align="left">
+    <a href="https://github.com/Wolsadek?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Wolsadek?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Wolsadek?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Wolsadek?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
-### Learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-<img align='right' alt='dog' height='150' style="border-radius:10px;"
- src="https://i.pinimg.com/600x315/c8/b6/35/c8b6359550881c7040f3169d242e60c3.jpg">  
-     
- ##
-<a href = "mailto:estudominucioso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>      
+---
 
-![Snake animation](https://github.com/Wolsadek/Wolsadek/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+### 🤖 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Vue"
+    title="Vue" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Swift"
+    title="Swift" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-lyart-three-32.vercel.app/api?username=wolsadek&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+    src="https://github-readme-stats-lyart-three-32.vercel.app/api/top-langs/?username=wolsadek&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"
+  />
+
+</p>
