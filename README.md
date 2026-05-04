@@ -1,31 +1,31 @@
 # 👨🏻‍💻 Lorenzo Concato Jesien
 
-**`Desenvolvedor Front-End`**
+**`Front-End Developer`**
 
-  Um desenvolvedor de software de Porto Alegre, Brasil 🇧🇷. Focado em construir soluções eficientes e escaláveis. Minha trajetória é movida pela curiosidade e pelo aprendizado contínuo. Meu objetivo é usar a tecnologia para criar ferramentas que realmente façam a diferença.
+A software developer from Porto Alegre, Brazil 🇧🇷. Focused on building efficient and scalable solutions. My journey is driven by curiosity and continuous learning. My goal is to use technology to create tools that truly make a difference.
 
 <p align="left">
 
 <p align="left">
     <a href="https://github.com/Wolsadek?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Wolsadek?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Total stars" 
+            title="Total GitHub stars" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Wolsadek?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
         />
     </a>
     <a href="https://github.com/Wolsadek?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Wolsadek?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Followers" 
+            title="Follow me on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Wolsadek?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
 
 <img 
     align="left" 
@@ -103,7 +103,7 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
@@ -111,14 +111,14 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-lyart-three-32.vercel.app/api?username=wolsadek&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
+    src="https://github-readme-stats-lyart-three-32.vercel.app/api?username=wolsadek&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=en"
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-    src="https://github-readme-stats-lyart-three-32.vercel.app/api/top-langs/?username=wolsadek&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"
+    src="https://github-readme-stats-lyart-three-32.vercel.app/api/top-langs/?username=wolsadek&layout=compact&langs_count=8&theme=tokyonight&locale=en"
   />
 
 </p>
